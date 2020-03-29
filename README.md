@@ -1,8 +1,10 @@
 # OpenDataWithR
 
 Goals:
+
 •	Design and implement a logistic regression model to study correlation between factors crucial to malignancy of tumorous mass
-•	Analyz and visualize breast cancer diagnostic dataset provided by UC Irvine database using R packages
+
+•	Analyze and visualize breast cancer diagnostic dataset provided by UC Irvine database using R packages
 
 Analysis of Diagnostic Breast Cancer Wisconsin Dataset - https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 
